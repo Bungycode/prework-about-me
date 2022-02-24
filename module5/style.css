@@ -49,3 +49,11 @@ h1 {
     font-family: Georgia, Times, serif;
 }
 
+#styledImage {
+    border-top-width: 20px;
+    border-right-width: 30px;
+    border-bottom-width: 40px;
+    border-left-width: 50px;
+    border-style: dotted;
+    border-color: darkred;
+}
